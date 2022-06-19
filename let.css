@@ -1,0 +1,64 @@
+/* .container{
+         display: flex;
+         flex-direction: column;           
+}          
+                  */
+.first {
+      display: flex;
+      
+      align-items: center;
+      justify-content: center;  
+      margin-bottom: 10px;            
+}
+.second {
+                    display: flex;
+                    
+                    align-items: center;
+                    justify-content: center;
+                   
+                    margin-bottom : 10px;             
+              }
+              .third {
+                    display: flex;
+                    
+                    align-items: center;
+                    justify-content: center;  
+                    margin-bottom: 10px;            
+              }              
+.one{
+       width: 250px;
+       height: 250px;
+       background-image: radial-gradient( #F9E7FE, #DAFCFC);
+       border-radius: 100%;
+      
+}
+.two{
+                    width: 250px;
+                    height: 250px;
+                    /* background-image: linear-gradient(to bottom right, #9EF9D8, #CAF6BF); */
+                    background-image:radial-gradient( #A0BEF8, #B5F0F0);
+                    border-radius: 100%;
+                    margin-right: 10px;
+             }
+             .three{
+                    width: 250px;
+                    height: 250px;
+                    background-image: radial-gradient( #EB4174, #FFE3E3);
+                    border-radius: 100%;
+                   
+             }
+             .four{
+                                 width: 250px;
+                                 height: 250px;
+                                 background-image: radial-gradient( #FDE7EA, #FDEFDA);
+                                 border-radius: 100%;
+                                 margin-left: 10px;
+                          }
+                          .five{
+                                        width: 250px;
+                                        height: 250px;
+                                       
+                                        background-image: radial-gradient( #9EF9D8, #CAF6BF);
+                                        border-radius: 100%;
+                                 
+                                 }        
